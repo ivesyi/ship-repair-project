@@ -1,0 +1,37 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "根据您提供的工程单信息，整理如下：\n\n### 一、 项目清单整理\n\n| 序号 | 项目名称 | 数量 | 单位 | 单价（元） |\n| :--- | :--- | :--- | :--- | :--- |\n| 1 | 局部除锈 | 145 | 平方米 | 46 |\n| 2 | 整体后续涂装 | 483 | 平方米 | 112 |\n| 3 | 锌块 | 36 | 块 | 210 |\n\n### 二、 关于人工工时的说明\n\n**结论：仅依据上述信息，无法确定人工工时。**\n\n**理由：**\n1.  **缺乏工时定额数据**：提供的工程单仅包含“工程量”（数量）和“单价”，未提供对应工序的人工工时定额（如：每平方米除锈需要多少工时、每平方米涂装需要多少工时、每块锌块安装需要多少工时）。\n2.  **单价构成不明**：单价（46元/平方米、112元/平方米、210元/块）可能包含人工费、材料费、机械费、管理费及利润等综合成本，但未拆分出具体的人工费占比或人工单价，因此无法反推工时。\n3.  **施工条件未提及**：工时受施工难度、作业环境、工人效率、工具配置等多种因素影响，这些信息在单据中均未体现。\n\n**依据原则**：保持证据边界，不补造工时或现场事实。因此，不能基于现有数据推算或编造人工工时。"
+      }
+    }
+  ],
+  "created": 1789355910,
+  "model": "qwen38-27b-q4",
+  "system_fingerprint": "b0-unknown",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 342,
+    "prompt_tokens": 110,
+    "total_tokens": 452,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  },
+  "id": "chatcmpl-1iy8AZLKkEa0OYKVeb6ZQoKBlZ6IZ9fh",
+  "timings": {
+    "cache_n": 0,
+    "prompt_n": 110,
+    "prompt_ms": 343.648,
+    "prompt_per_token_ms": 3.1240727272727273,
+    "prompt_per_second": 320.0949809106993,
+    "predicted_n": 342,
+    "predicted_ms": 4960.836,
+    "predicted_per_token_ms": 14.547906158357772,
+    "predicted_per_second": 68.73841425114638
+  },
+  "test_elapsed_seconds": 5.314
+}

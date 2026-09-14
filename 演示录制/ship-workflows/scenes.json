@@ -1,0 +1,128 @@
+[
+  {
+    "file": "01-import.png",
+    "kicker": "案例一 · 上传纠错",
+    "title": "导入维修单",
+    "body": "选择照片，或加载模拟维修单。",
+    "duration": 7,
+    "start": 0,
+    "id": "s0"
+  },
+  {
+    "file": "02-recognizing.png",
+    "kicker": "案例一 · 图片识别",
+    "title": "识别原图",
+    "body": "识别为电子草稿，保留原件。",
+    "duration": 5,
+    "start": 7,
+    "id": "s1"
+  },
+  {
+    "file": "04-checking.png",
+    "kicker": "案例一 · 核算检查",
+    "title": "核对后检查",
+    "body": "人工核对草稿，再由 Agent 调用核算工具。",
+    "duration": 7,
+    "start": 12,
+    "id": "s2"
+  },
+  {
+    "file": "05-issues.png",
+    "kicker": "案例一 · 差异定位",
+    "title": "核算差额",
+    "body": "除锈原单 6670 元，试算 8280 元；同时提示单位与单价依据。",
+    "duration": 10,
+    "start": 19,
+    "id": "s3"
+  },
+  {
+    "file": "06-review.png",
+    "kicker": "案例一 · 人工复核",
+    "title": "填写依据",
+    "body": "逐项保存说明，保留待审批边界。",
+    "duration": 8,
+    "start": 29,
+    "id": "s4"
+  },
+  {
+    "file": "07-archive.png",
+    "kicker": "案例一 · 电子留档",
+    "title": "电子归档",
+    "body": "原图、试算及问题说明一并留存；本版为网页档案。",
+    "duration": 8,
+    "start": 37,
+    "id": "s5"
+  },
+  {
+    "file": "08-history.png",
+    "kicker": "案例二 · 历史参照",
+    "title": "查看历史",
+    "body": "打开案例，比较工程量、材料、工时与费用。",
+    "duration": 8,
+    "start": 45,
+    "id": "s6"
+  },
+  {
+    "file": "09-task.png",
+    "kicker": "案例二 · 任务确认",
+    "title": "提交任务",
+    "body": "本版人工确认参照，Agent 据此编制初案。",
+    "duration": 8,
+    "start": 53,
+    "id": "s7"
+  },
+  {
+    "file": "10-initial.png",
+    "kicker": "案例二 · 初始方案",
+    "title": "生成初案",
+    "body": "133 工时，直接预成本 19396 元。",
+    "duration": 8,
+    "start": 61,
+    "id": "s8"
+  },
+  {
+    "file": "11-inspection.png",
+    "kicker": "案例二 · 勘验记录",
+    "title": "提交勘验",
+    "body": "增加、减少、取消与新增项目，以勘验原文为依据。",
+    "duration": 8,
+    "start": 69,
+    "id": "s9"
+  },
+  {
+    "file": "12-changes.png",
+    "kicker": "案例二 · 联动测算",
+    "title": "联动测算",
+    "body": "修订为 177 工时、29260 元；较初案增加 44 工时、9864 元。",
+    "duration": 10,
+    "start": 77,
+    "id": "s10"
+  },
+  {
+    "file": "13-change-table.png",
+    "kicker": "案例二 · 变更核对",
+    "title": "核对差异",
+    "body": "六项工程变化，联动显示材料、工时和费用。",
+    "duration": 10,
+    "start": 87,
+    "id": "s11"
+  },
+  {
+    "file": "14-report-ready.png",
+    "kicker": "案例二 · 报告留档",
+    "title": "导出报告",
+    "body": "Agent 编制留档内容，桌面端导出 PDF。",
+    "duration": 7,
+    "start": 97,
+    "id": "s12"
+  },
+  {
+    "file": "report/page-1.png",
+    "kicker": "案例二 · 实际输出",
+    "title": "PDF 报告",
+    "body": "方案摘要、工程变更、材料工时、预成本与复核记录。",
+    "duration": 9,
+    "start": 104,
+    "id": "s13"
+  }
+]

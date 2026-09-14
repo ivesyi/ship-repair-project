@@ -1,0 +1,30 @@
+{
+  "id": "demo003",
+  "simulated": true,
+  "priceSource": "2022年历史采购资料，未确认现行有效性",
+  "items": [
+    {
+      "id": "2.1",
+      "quantity": "180",
+      "unit": "平方米",
+      "unitPrice": "46.00",
+      "amount": "6670.00"
+    },
+    {
+      "id": "2.2",
+      "quantity": "483",
+      "unit": "平方米",
+      "unitPrice": "112.00",
+      "amount": "54096.00"
+    },
+    {
+      "id": "5",
+      "quantity": "40",
+      "unit": "块",
+      "unitPrice": "210.00",
+      "amount": "8400.00"
+    }
+  ],
+  "total": "69166.00",
+  "note": "模拟经办备注：锌块每块5公斤，200公斤按200×210结算，请批准采购。"
+}

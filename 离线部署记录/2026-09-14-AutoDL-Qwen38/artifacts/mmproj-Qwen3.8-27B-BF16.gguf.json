@@ -1,0 +1,9 @@
+{
+  "file": "mmproj-Qwen3.8-27B-BF16.gguf",
+  "bytes": 931145888,
+  "sha256": "de2a49866988ea272c43dc2a43ee2662c25725a717ca5b9059ea420a97f53fe8",
+  "source": "https://huggingface.co/ggml-org/Qwen3.8-27B-GGUF/resolve/0669b98607d47046c7c2b3f801011d54a08cfccf/mmproj-Qwen3.8-27B-BF16.gguf",
+  "download_source": "https://modelscope.cn/models/ggml-org/Qwen3.8-27B-GGUF/resolve/914de42974515683388c7373a3a03e353bfc668a/mmproj-Qwen3.8-27B-BF16.gguf",
+  "revision": "0669b98607d47046c7c2b3f801011d54a08cfccf",
+  "verified": true
+}

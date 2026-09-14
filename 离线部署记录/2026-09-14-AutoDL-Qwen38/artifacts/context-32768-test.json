@@ -1,0 +1,39 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "257913, 972461, 864205"
+      }
+    }
+  ],
+  "created": 1789356695,
+  "model": "qwen38-27b-q4",
+  "system_fingerprint": "b0-unknown",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 23,
+    "prompt_tokens": 11356,
+    "total_tokens": 11379,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  },
+  "id": "chatcmpl-GLlZFMCLNB7X06VTha6oCFe4WF12OKwD",
+  "timings": {
+    "cache_n": 0,
+    "prompt_n": 11356,
+    "prompt_ms": 3171.767,
+    "prompt_per_token_ms": 0.27930318774216273,
+    "prompt_per_second": 3580.3386566541617,
+    "predicted_n": 23,
+    "predicted_ms": 345.792,
+    "predicted_per_token_ms": 15.717818181818181,
+    "predicted_per_second": 63.62206181750879
+  },
+  "test_description": "合成长文本容量测试，非真实业务材料",
+  "body_tokens": 11344,
+  "elapsed_seconds": 3.556
+}

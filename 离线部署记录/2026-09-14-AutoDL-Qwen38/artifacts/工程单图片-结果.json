@@ -1,0 +1,37 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "根据您提供的图片，提取的原文信息如下：\n\n**1. 项目 2.1**\n*   **名称**：设计水线以下壳体约 483 ㎡（包括船底、附件）局部除锈（预估 30%），表面全部出白，打磨、油漆；除锈部分涂国际通用环氧底漆 KUA606，KUA602 各 1 度\n*   **数量**：145\n*   **单位**：㎡\n*   **单价**：46.00\n*   **金额**：6,670.00\n\n**2. 项目 2.2**\n*   **名称**：设计水线以下壳体约 483 ㎡（包括船底、附件）统喷 FAJ034/FAA262 环氧连接漆 1 度；无锡防污漆 BMA668 褐色 1 度；无锡防污漆 BMA664 红色 1 度（注意对船底设备的保护，特别是测深仪探头位置）；\n*   **数量**：483\n*   **单位**：㎡\n*   **单价**：112.00\n*   **金额**：54,096.00\n\n**3. 项目 5**\n*   **名称**：锌块换新型号 ZH-9，标准号 GB/T4950-2002（5 公斤）。（安装前按要求对表面进行处理，严禁锌块打油漆）\n*   **数量**：36\n*   **单位**：块\n*   **单价**：210.00\n*   **金额**：7,560.00\n\n***\n\n**关于人工工时的说明：**\n\n**不能**从图中确定人工工时。\n该表格展示的是工程量清单（包含项目名称、工程量、单价和总价），其中并没有包含工时（如：小时、工日）这一列数据。"
+      }
+    }
+  ],
+  "created": 1789355919,
+  "model": "qwen38-27b-q4",
+  "system_fingerprint": "b0-unknown",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 449,
+    "prompt_tokens": 2320,
+    "total_tokens": 2769,
+    "prompt_tokens_details": {
+      "cached_tokens": 26
+    }
+  },
+  "id": "chatcmpl-IQ0mmKgGeFbzNjiD7NX6zNgysgxOltXm",
+  "timings": {
+    "cache_n": 26,
+    "prompt_n": 2294,
+    "prompt_ms": 1447.837,
+    "prompt_per_token_ms": 0.631140802092415,
+    "prompt_per_second": 1584.4325017249869,
+    "predicted_n": 449,
+    "predicted_ms": 6532.072,
+    "predicted_per_token_ms": 14.580517857142857,
+    "predicted_per_second": 68.58466961172503
+  },
+  "test_elapsed_seconds": 8.447
+}
