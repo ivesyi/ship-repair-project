@@ -7,6 +7,12 @@ node_modules/
 # 子仓库本地历史备份（内容已并入主仓库）
 .git.bak/
 
+# 外部参考仓库（课程参考，独立 git 仓库）
+classes/
+
+# 工作区配置
+.workbuddy/
+
 # 大体积模型运行时包（超过 GitHub 100MB 单文件限制）
 离线部署记录/**/*.tar.gz
 
